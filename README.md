@@ -12,9 +12,9 @@ Blending **problem-solving**, **programming**, and **design thinking** to craft 
 ### 🛠️ My Tech Playground
 
 - **Languages:**  
-  ⚡ C++ | Python | JavaScript (On My Radar)  
+  ⚡ C++ | Python 
 - **Tech Stack:**  
-  🔧 Git & GitHub | Adobe Creative Suite | Figma  
+  🔧 Git & GitHub | Adobe Illustrator | Adobe Photoshop   
 - **Core Skills:**  
   🎯 OOP | Graphic Design | Creative Problem-Solving  
 
