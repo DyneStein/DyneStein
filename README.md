@@ -1,37 +1,67 @@
-#!/bin/bash
+## 🚀 Dyen Asif: Code Meets Creativity
 
-👋 Hey there! I'm Dyen Asif
-===========================
+---
 
-🎓 About Me
------------
-- 🎓 Pursuing **BS Computer Science** at **FAST NUCES**
-- 💡 Passionate about **Problem Solving**, **Programming**, **Communication**, and **Collaborative Work**
-- 🎨 Skilled in **C++** and **Graphic Designing**
-- 🔍 Driven by **Design Thinking** for a unique problem-solving approach
+### 👋 Hey There! I’m Dyen Asif
 
-🛠️ Technologies & Tools
-------------------------
-- 💻 Languages: `C++`, `Python`
-- 🖌️ Design: `Adobe Photoshop`, `Illustrator`, `Corel Draw`
-- ⚙️ Tools: `Git`, `VS Code`, `Linux`
+🔍 **Explorer of Ideas | BSCS Student @ FAST NUCES**  
+Blending **problem-solving**, **programming**, and **design thinking** to craft unique solutions. I believe in the power of creativity and collaboration to solve complex problems and bring ideas to life.
 
-🚀 Projects
------------
-- `Buzz Bomber`: A 2D classic game that reincarnates the soul of arcade games.
-- `Portfolio Website`: A personal website showcasing my design skills and programming projects.
-- `UnityForge`: A community website.
+---
 
-🤝 Let's Connect
-----------------
-- 📧 Email: dyssart@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dyen-asif-73a6661b8/
-- 🗂️ Portfolio: under construction
+### 🛠️ My Tech Playground
 
-⚡ Fun Fact
-----------
-```bash
-while (coffee) {
-    code++;
-    creativity++;
-}
+- **Languages:**  
+  ⚡ C++ | Python | JavaScript (On My Radar)  
+- **Tech Stack:**  
+  🔧 Git & GitHub | Adobe Creative Suite | Figma  
+- **Core Skills:**  
+  🎯 OOP | Graphic Design | Creative Problem-Solving  
+
+---
+
+### 🌈 My Creative Edge
+
+- 🔥 Innovative thinker with a designer's mindset  
+- 🎨 Crafting aesthetic yet functional solutions  
+- 🤝 Collaboration-driven problem solver  
+
+---
+
+### 📚 On My Learning Radar
+
+- 💻 Mastering **Advanced C++ Concepts**  
+- 🎨 Exploring **UI/UX Design** & **Web Development**  
+- 🤖 Tackling real-world challenges through **hackathons**
+
+---
+
+### 🚀 Projects That Inspire
+
+- **AlgoVision** 📊  
+  *Visualizing algorithms with interactive C++ graphics.*  
+- **PixelPerfect** 🎨  
+  *Design-driven app showcasing dynamic UI concepts.*  
+
+*(More innovative projects loading... ⏳)*
+
+---
+
+### 🤝 Let’s Collaborate!
+
+- **LinkedIn:** (https://www.linkedin.com/in/dyen-asif-73a6661b8/) 
+- **Portfolio:** under construction 
+- **Email:** dyssart@gmail.com  
+
+Let’s brainstorm, build, and break boundaries together!
+
+---
+
+### 🌟 Quote I Live By
+
+> "Creativity is intelligence having fun." — *Albert Einstein*
+
+---
+
+✨ Thanks for stopping by. Let’s create something extraordinary!
+
