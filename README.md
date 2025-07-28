@@ -1,4 +1,4 @@
-## 🚀 Dyen Asif: Code Meets Creativity
+## 🚀 Dyen Asif
 
 ---
 
