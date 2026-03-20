@@ -1,67 +1,41 @@
-## 🚀 Dyen Asif
+Here’s a clean, concise, and professional version:
 
 ---
 
-### 👋 Hey There! I’m Dyen Asif
+## Dyen Asif
 
-🔍 **Explorer of Ideas | BSCS Student @ FAST NUCES**  
-Blending **problem-solving**, **programming**, and **design thinking** to craft unique solutions. I believe in the power of creativity and collaboration to solve complex problems and bring ideas to life.
-
----
-
-### 🛠️ My Tech Playground
-
-- **Languages:**  
-  ⚡ C++ | Python 
-- **Tech Stack:**  
-  🔧 Git & GitHub | Adobe Illustrator | Adobe Photoshop   
-- **Core Skills:**  
-  🎯 OOP | Graphic Design | Creative Problem-Solving  
+BSCS Student at FAST NUCES with a focus on problem-solving, programming, and design thinking. Interested in building practical and creative solutions through technology.
 
 ---
 
-### 🌈 My Creative Edge
+### Technical Skills
 
-- 🔥 Innovative thinker with a designer's mindset  
-- 🎨 Crafting aesthetic yet functional solutions  
-- 🤝 Collaboration-driven problem solver  
-
----
-
-### 📚 On My Learning Radar
-
-- 💻 Mastering **Advanced C++ Concepts**  
-- 🎨 Exploring **UI/UX Design** & **Web Development**  
-- 🤖 Tackling real-world challenges through **hackathons**
+* **Languages:** C++, Python
+* **Tools:** Git, GitHub, Adobe Illustrator, Adobe Photoshop
+* **Core Concepts:** Object-Oriented Programming, Graphic Design, Problem Solving
 
 ---
 
-### 🚀 Projects That Inspire
+### Interests
 
-- **AlgoVision** 📊  
-  *Visualizing algorithms with interactive C++ graphics.*  
-- **PixelPerfect** 🎨  
-  *Design-driven app showcasing dynamic UI concepts.*  
-
-*(More innovative projects loading... ⏳)*
+* Advanced C++ concepts
+* UI/UX Design and Web Development
+* Hackathons and real-world problem solving
 
 ---
 
-### 🤝 Let’s Collaborate!
+### Projects
 
-- **LinkedIn:** (https://www.linkedin.com/in/dyen-asif-73a6661b8/) 
-- **Portfolio:** under construction 
-- **Email:** dyssart@gmail.com  
-
-Let’s brainstorm, build, and break boundaries together!
+* **AlgoVision** – Algorithm visualization using C++ graphics
+* **PixelPerfect** – UI-focused application exploring design concepts
 
 ---
 
-### 🌟 Quote I Live By
+### Contact
 
-> "Creativity is intelligence having fun." — *Albert Einstein*
+* LinkedIn: [https://www.linkedin.com/in/dyen-asif-73a6661b8/](https://www.linkedin.com/in/dyen-asif-73a6661b8/)
+* Email: [dyssart@gmail.com](mailto:dyssart@gmail.com)
 
 ---
 
-✨ Thanks for stopping by. Let’s create something extraordinary!
-
+> “Creativity is intelligence having fun.” — Albert Einstein
