@@ -1,6 +1,3 @@
-Here’s a clean, concise, and professional version:
-
----
 
 ## Dyen Asif
 
