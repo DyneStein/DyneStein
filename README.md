@@ -7,7 +7,7 @@ BSCS Student at FAST NUCES with a focus on problem-solving, programming, and des
 
 ### Technical Skills
 
-* **Languages:** C++, Python
+* **Languages:** C/C++, Python, Java, Php, Shell, HTML/CSS/JS, R.
 * **Tools:** Git, GitHub, Adobe Illustrator, Adobe Photoshop
 * **Core Concepts:** Object-Oriented Programming, Graphic Design, Problem Solving
 
