@@ -15,7 +15,7 @@ L. Noor, **M. D. Asif**, H. Ramzan, A. Atiq, M. A. Saeed, A. Jamil, A. Din
 A dual-metric human-in-the-loop escalation policy for dermoscopy: a case is routed to a clinician
 when either model uncertainty or a dedicated clinical-risk head crosses a per-round calibrated
 threshold. This targets the failure standard active learning cannot see, where a model is
-confidently wrong about a melanoma and auto-accepts it. We prove the escalation set is a strict
+confidently wrong about a melanoma and auto-accepts it. We prove the escalation set is a
 superset of the uncertainty-only set, so unsafe auto-acceptance cannot increase.
 
 Across 24 experiments on HAM10000: **43% fewer unsafe auto-accepts in 12 of 12 matched
@@ -47,7 +47,7 @@ agricultural advisory systems) is under NDA. One deployment is publicly viewable
 ## Technical
 
 **Languages** Python · C++ · Java · JavaScript/TypeScript · SQL · x86 Assembly
-**ML** PyTorch · scikit-learn · Ultralytics YOLO · active learning · uncertainty quantification · calibration · OOD detection · Grad-CAM / Score-CAM · RAG · HNSW retrieval
+**ML** PyTorch · scikit-learn · Ultralytics YOLO · active learning · uncertainty quantification · calibration · OOD detection · Grad-CAM++ / Score-CAM · RAG · HNSW retrieval
 **Vision & geospatial** Rasterio · GDAL · PROJ · QGIS · GeoPandas · Cloud-Optimized GeoTIFF · PostGIS · TiTiler
 **Edge** NVIDIA Jetson Nano / Orin Nano · MAVLink telemetry · on-board inference under power and thermal constraints
 **Systems** FastAPI · Next.js · NestJS · PostgreSQL · Redis · RabbitMQ · MinIO · Docker · Nginx · Linux
