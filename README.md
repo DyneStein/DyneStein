@@ -19,8 +19,9 @@ confidently wrong about a melanoma and auto-accepts it. We prove the escalation 
 superset of the uncertainty-only set, so unsafe auto-acceptance cannot increase.
 
 Across 24 experiments on HAM10000: **43% fewer unsafe auto-accepts in 12 of 12 matched
-configurations**, at 9.1% more oracle labels (p = 0.003), with no significant change in F1-macro
-(p = 0.305). Validated out-of-distribution on 14,885 ISIC-2019 images.
+configurations**, at 9.1% more oracle labels (Holm-corrected p = 0.003), with no significant change in F1-macro
+(p = 0.305). Validated out-of-distribution on 14,885 ISIC-2019 images with HAM10000
+duplicates removed: 83.3% accuracy win rate, 75.0% melanoma-safety win rate.
 → [`RiskAware-ActiveLearning`](https://github.com/DyneStein/RiskAware-ActiveLearning)
 
 **Hallucination-Free Retrieval-Augmented Generation** · *undergraduate research assistant, FAST-NUCES*
